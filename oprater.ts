@@ -1,0 +1,10 @@
+let s = 10;
+let y = 20;
+let sm = s + y;
+let sub = s - y;
+let mul = s * y;
+let div = s / y;
+console.log('Sm is ', sm);
+console.log('Sub is ', sub);
+console.log('Mul is ', mul);
+console.log('Div is ', div);
